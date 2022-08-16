@@ -9,6 +9,7 @@ Inspired by [pastel powerline](https://starship.rs/presets/pastel-powerline.html
 
 
 ## Installation
+Download the .toml file from releases
 Installation instructions can be found on [starship.rs](https://starship.rs/)
 
 ## Todo
